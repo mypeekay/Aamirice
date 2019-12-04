@@ -1,0 +1,567 @@
+<resources>
+    <string name="app_name">Aamirice</string>
+    <string-array name="movie">
+        <item>Holi/胡里节</item>
+        <item>冷暖人间</item>
+        <item>灰飞烟灭</item>
+        <item>爱爱爱</item>
+        <item>Awwal Number</item>
+        <item>Tum Mere Ho</item>
+        <item>讲心不讲金</item>
+        <item>为爱痴狂</item>
+        <item>Jawain Zindabad</item>
+        <item>爱的故事</item>
+        <item>爱在旅途</item>
+        <item>这就是人生</item>
+        <item>情侣风尘</item>
+        <item>情比金坚</item>
+        <item>传统</item>
+        <item>情牵一线</item>
+        <item>假假真真</item>
+        <item>忠肝义胆</item>
+        <item>Aatank Hi Aatank/恐怖是恐怖</item>
+        <item>艳光四射</item>
+        <item>激情的代价</item>
+        <item>印度拉贾</item>
+        <item>真爱无敌</item>
+        <item>大地1947</item>
+        <item>古拉姆</item>
+        <item>终成眷属</item>
+        <item>义无反顾</item>
+        <item>复仇的火焰(国语链接)</item>
+        <item>心归何处/蛮横有理</item>
+        <item>印度往事</item>
+        <item>抗暴英雄</item>
+        <item>为爱毁灭</item>
+        <item>青春无敌/芭萨提的颜色</item>
+        <item>地球上的星星/心中的小星星</item>
+        <item>未知死亡</item>
+        <item>三傻大闹宝莱坞/3 idiots/三个傻瓜</item>
+        <item>孟买日记</item>
+        <item>觅迹寻踪</item>
+        <item>幻影车神3/Dhoom3/幻三</item>
+        <item>我的个神啊/PK</item>
+        <item>摔跤吧爸爸/Dangal</item>
+        <item>神秘巨星</item>
+        <item>印度暴徒</item>
+    </string-array>
+    <string-array name="intro">
+        <item>In a typical college in a typical Indian city, the hostel boys Madan Sharma (Aamir Khan) and his friend are a rowdy lot. The teaching staff suffer from the common apathy of most teachers in similar colleges. The administration has the usual problems, with ill-paid employees periodically going on strike. On the whole, the college is a very normal place. But on this particular day, when Madan and his friends rise from their slumber, some with the customary hangover, they are not so perturbed to find no water in the taps again, as when they hear that it is not going to be a holiday after all. Instead there will be a lecture in the auditorium by the Chairman of the Board (Dr. Shriram Lagoo), on the day of the festival of fire, Holi, and the boys decide not to attend the classes. The hostel superintendent Professor Singh (Naseeruddin Shah), the only lecturer with some human links with the students, watches with apprehension their growing restlessness. A notice announcing a further ...</item>
+        <item>印度某地的一个小乡村里，小伙子勒登纳爱上了漂亮的姑娘麦吐，两人一见倾心。然而，不知道内情的义母私自为儿子另订了一门亲事，姑娘麦吐得知后，经不起打击自杀身亡。麦吐的二哥腾拉兹枪杀了勒登郎纳，被判处无期徒刑。两家就此结下了仇恨。麦吐的大哥贾斯文来到德里，抚养了腾拉兹的儿子。由于腾拉兹在狱中表现良好，因此被提前释放。出狱后，却又遭到勒登纳哥哥仁提尔的不断挑衅，只得让儿子拉兹和贾斯文的儿子夏姆一起返乡。拉兹在家乡邂逅美丽的姑娘莱斯密，而她正是仁提尔的女儿，两个年轻人相爱了。仁提尔得知后怒不可遏，一再警告拉兹，并给女儿订婚，腾拉兹开始反对，后在贾斯文特的劝说下理解了儿子，然而愤怒的仁提尔决定不顾一切夺回女儿，以致酿成了一场更大的悲剧。</item>
+        <item>这部电影据说是阿米尔汗的第二部电影，令人难以置信的是他的表演如同一个人具有丰富表演经验的老戏骨一样。阿米尔汗扮演主角Aamir Hussain Khan(他的真名)，卷入了与强盗的斗争中，因为这件事，他的前女友(Supriya Pathak饰)被凌辱。阿米尔为他前女友遭受的一切深深自责，决定杀死所有涉及那次事件的人。与此同时，一个警察（Pankaj Kapur饰）也受够了这群强盗，因此，目睹了阿米尔的愤怒之后他决定帮助他。阿米尔汗和Pankaj Kapur全身心地投入到了角色中，Supriya Pathak也在属于她的小角色中表现得很好，如果你想看男女主角卿卿我我的浪漫电影，这部电影不是你的选择。如果你想看一部现实主义的绝佳电影，尽快去看这部电影吧。</item>
+        <item>出租汽车司机的儿子Amit和富有企业家的女儿Reema坠入爱河。 然而Reema的父亲想要她与孟买最大恶势力,黑帮老大Sudhirdhai的儿子Vicky结婚。他们的爱将如何战胜邪恶？</item>
+        <item>The DGP of Police discovers a terrorist plot hatched by a sacked cricketer to blow up the stadium where an important cricket match is in progress.</item>
+        <item>"Shiva is blessed with magical powers of charming snakes. When he meets Paro from a nearby village, he falls head-over-heels in love with her. She is also attracted to him. But Paro's dad, Choudhry Charanjit Singh with not pleased with this match, and he hires men to subdue and kill Shiva, all in vain. Then Shiva attempts to resuce Paro from a shape-changing snake, and this earns him the wrath of his mate - another shape-changing snake, who will not rest until Shiva is dead."</item>
+        <item>哈扎利.布萨是个守财奴，他想给自己的儿子亚加找个年轻有钱的女人结婚。他妄想攀上亿万富翁梅拉先生，竟然花钱雇人来帮他演戏，让梅拉以为他也是有钱人，进而提议将他女儿玛都许与亚加。哪知道玛都与亚加两人在学校是对冤家，见面就吵。就在两人在学校的组织下去坞提露营时，两人的关系发生了变化，成了对相爱的恋人，并同意了婚事。</item>
+        <item>本片讲述了一个类似于青蛙爱上公主的动人故事。一位平凡的摄影师阿杰爱上了已经订婚的美丽知名的模特阿妮塔。在所有的朋友和父母都认为这是个无果的爱情，阿杰又是怎样抱得美人归的呢？</item>
+        <item>【来自优酷评论，不确定】主要是抨击女方嫁人要给男方很多彩礼的这种陋习，好像《三傻》里那个穷苦学生的姐姐也是这种情况而嫁不出去，跟我们中国恰好相反。阿米尔在这里开始真的是一个花痴，见一个就浮想联翩。后来爱上了一个被退婚的女子，他的爱情故事到此就结束了，接下来主要说他的妹妹嫁给心上人，但他的公婆要彩礼，阿米尔骗了对方，妹妹是嫁进去了，但公婆不许小两口同居，两人偷偷摸摸最后妻子怀孕了，这个狠心的公公想方设法害儿媳，不让她生，最后害了老婆和儿子，他才悔悟。这个故事很像《真相访谈》说的情况，说实话在国内真的难以想象。</item>
+        <item>大学男生拉贾的爸爸和新入学女生妮基塔的叔叔之间曾有恩怨，但正在懵懂成长中的拉贾和妮基塔对此毫无概念。他们在大学相遇，不打不相识，经过几次小误会，他们彼此误打误撞地坠入爱河，最后计划结婚。当他们自以为按程序把计划告知家人就行了时，发现结果是双方家庭都对此大为恼怒，没有人给这对年轻恋人任何祝福。随着家庭矛盾迷雾的一层层揭开，亲情与爱情也渐渐清晰了起来，最终拉贾一家人破镜重圆，拉贾和妮基塔最终得到了长辈们的认可和祝福。</item>
+        <item>Runaway heiress in search of her beloved falls in love with another man on the way.</item>
+        <item>故事发生在印度一个小村庄.贫农班斯拉姆从老地主那里获赠一块土地,班斯拉姆独自带着自己的小孙子,在这块土地上勤勤恳恳地劳作,把这里经营地如世外桃源般诱人.老地主过世后,他的儿子,吃喝嫖赌,无恶不作.他看上了这里的土地和花园,不惜一切代价想把土地据为己有.勤劳善良的班斯拉姆怎舍得卖掉自己的命根——这片土地,无意中得到英国人的帮助,他才保住了自己的土地.丧心病狂的地主儿子被气死了.他的养子德福拉吉接管了财产,仍然打着这块土地的主意.班斯拉姆的孙子邱图(阿米尔汗饰演)和美丽善良的妻子秋牡吉相亲相爱,和爷爷一起守着这块土地,勤苦而快乐地日夜劳作,这里,是他们的根,而贪心的地主和地主的儿子都成了气死鬼.—— 这就是人生,知足常乐,享受人生,多行不义必自毙!</item>
+        <item>Bhushan Chaudhry (Shafi Inamdar) and Mr. Agarwal (Tiku Talsania) are business rivals, and hate each other. Their children, Rajesh Chaudhry (Aamir Khan) and Asha Agarwal (Juhi Chawla) study in the same class in college, and are in love with each other. Both are terrified of what their parents will do when they find out about their romance. And when the parents do find out, all kinds of restrictions are placed on them. Unable to stay away from each other, they elope in a stolen car. On the way, they come across an injured man, and decide to take him to hospital. Little knowing that helping this stranger will not only change their lives forever, but also place their lives in danger.</item>
+        <item>对于萘尼塔这个小镇来说，最大的体育赛事就是一年一度的自行车比赛。参赛者几乎遍及所有高中生到大学生，有来自拉吉普特学校的富家子弟，也有来自墨戴尔学校的穷家小子。这两年的冠军都是拉吉普特大学的无比傲慢的沙克哈(Deepak Tijori饰演)。桑杰(阿米尔汗Aamir Khan饰演)和拉坦是亲哥俩，他们就读于墨戴尔学校，他们经营一家咖啡店来补贴学费。他们的父亲一心想看到大儿子拉坦拿到自行车赛冠军，拉坦是个标标准准的好儿子，同时也是桑杰称职的好哥哥，他几乎样样都很棒。桑杰却恰恰相反，是一个顽皮的捣蛋鬼，从不把生活当回事，只知道玩，成天和朋友们在一起，高高兴兴无忧无虑。朋友当中就有个女孩安加丽，她暗恋着他。但是桑杰却盯上了一个新来的女孩，他一直把安加丽当最好的朋友，最后，自行车赛如何，桑杰和安佳丽的爱情又如何让，我们一起来片子吧！</item>
+        <item>"In a remote region in India there has been a tradition of settling differences by fighting a duel with pistols with only one bullet in each of them. Such was the duel fought by Shankar and Thakur Bhavani Singh, with the latter emerging as the victor. Years later, Bhavani's son, Prithvi, returns from London, meets Shankar's son, Gora and daughter, Tara, befriends them, and eventually both Tara and Prithvi fall in love with each other. When Bhavani finds this out, he wants Prithvi to marry Rajeshwari, who comes from a rich family, and will destroy Gora Shankar and his tribe of gypsies. Unable to make up his mind, Prithvi ends up marrying both women, leading to Tara giving birth to a son, Pratap. Bhavani is enraged when he this out, he has Tara and a lot of their people slain, and their homes torched. Gora himself is arrested by the police, and sentenced to several years in prison. When he is discharged, he asks Bhavani for a duel, but Prithvi intervenes and is killed. Gora takes Pratap to live with him, while Rajeshwari gives birth to a boy, Ranvir, who is raised and brought up by Bhavani. Years later, Pratap and Ranvir meet as strangers, become friends, only to find out that there is an old score to be settled - which can only be done when they follow the time-old tradition of the duel - resulting in only one man surviving. The question remains, who will survive this time."</item>
+        <item>"Bachelor Rahul Malhotra (Aamir Khan) has just heard the news of the tragic passing of his sister and brother-in-law, through their lawyer (Tiku Talsania). He has inherited their business; two sons and a daughter. He finds the business in chaos under the "Japanese" trained Manager, Bhagwati Prasad Mishra (Mushtaq Khan), and the nephews and nieces - uncontrollable. His efforts to make sense of the business are met with even more challenges; and his efforts to find a suitable nanny are frustrated with one nanny after another quitting after being subjected to abuse at the hands of the three children. One day the children sneak out to a fair, and meet with runaway, Vaijanti Iyer (Juhi Chawla), who has refused to marry the man of her father's choice. The children and Vaijanti make a hit with each other, and they sneak her into Rahul's house. With the three, Rahul's hands were full, now with the fourth addition, how is Rahul to handle his life; his love-life with Maya (Navneet Nishan); the business; and Mr. Mishra?"</item>
+        <item>该片讲述了两个青年阿马尔(阿米尔·汗饰)和普勒姆(萨尔曼·汗饰)为了各自的目的追求富家千金拉薇娜而私自将他们父亲的店铺卖掉，两人旅程中偶然相遇，先是称兄道弟，后发现对方是自己情敌时反目成仇，故意给对方找各种麻烦。阿马尔假装失忆住进了拉薇娜的家中，普勒姆则假扮为给阿马尔治病的医生住进拉薇娜家中，两人都想得到拉薇娜的芳心而闹出了种种笑话。时间渐渐过去，阿马尔和拉薇娜两情相悦，普勒姆却对拉威娜的仆人卡瑞斯产生了情愫。就当似乎尘埃落定时，拉薇娜与卡瑞斯的身份却有着秘密，而拉薇娜的叔叔特贾则计划杀掉拉薇娜和她的父亲巴贾....阴差阳错之间，几人之间又会发生什么事情.....</item>
+        <item>"Inspector Amar Damjee discovers a terrifying crime in the street when he saves the lives of bus passengers. Now his job is as a police inspector to identify the terrorists. Suddenly, when a police commisioner&#x27;s daughter is killed in a homicide, Amar is framed for it and goes to jail. When he escapes along with the other prisoners accidently, he goes out to prove his innocence and find the man behind this, which Amar also discovers that he was his parents killer too."</item>
+        <item>"Chased out of their village, a poor farmer, his wife, son and daughter attempt to survive the harsh footpath life of Bombay, when a gangster asks him to work for him. Years later, the farmer is a mafia-like godfather with a crime network of his own, and a host of hoodlums out to kill him. Movie also shows the loves and lives of his children, now married. Written by rAjOo (gunwanti@hotmail.com) Shiv Charan Sharma a farmer moves to the city to make a life with his son Rohan, daughter (Radha Seth) and wife. He meets Munna, a orphan. Shiv and him work and make them self's into gangsters. years pass by, Shiv Charan Sharma is a untouched gang lord. Aslam Pathan and Billa Singh Thakur try to kill Shiv because they want his position. Munna falls in love with Razia, who is the daughter of Aslam Pathan. She runs off and gets married. Aslam Pathan takes his revenge by getting Gogia Advani to sell drugs to Shiv Charan Sharma, so they get a bad name. Shiv Charan Sharma refuses, but Munna seems interested. Shiv Charan Sharma gets shot so that they can deal with Munna but all hell breaks lose. Enters Rohan with girlfriend Neha, as he was kept away from the business. Rohan then avenges to kill Gogia Advani from the help of Munna. Now Rohan is on the run and meets Ganga, another love. But due to circumstances Rohan can not be with her. 4 years later, Rohan becomes Don. Munna has a family. Sharad Joshi takes a killing contact from Aslam Pathan and Billa Singh Thakur to kill Shiv Charan Sharma and Munna, but it is up to Rohan to destroy all of them. Written by jattunit"</item>
+        <item>"米莉来自一个贫穷的家庭，但她一直希望可以在萤光幕前有所发展. 在青梅竹马的好友蒙纳的鼓舞下, 她开始了她的圆梦计划。当影星卡马尔看了她的表演后，决定要推荐她演出""Rangeela""的女主角。\n看着卡马尔和米莉越走越近，卡马尔甚至想要向卡马尔求婚，在这样的情况下，蒙纳这个无法在演艺事业帮助Mili的青梅竹马，该如何面对自己对米莉的心意呢？"</item>
+        <item>"Akele Hum Akele Tum is a emotional family drama. A remake of Hollywood Classic Kramer Vs Kramer with Dustin Hoffman. Aamir Khan plays the struggling father who has to look after his son and work at the same time, after his wife suddenly decides to leave the house. Aamir Khan delivers a Powerful and Brilliant performance. Manisha Koraila is the women you will hate in a average role. You hate her because her character is so selfish, that she walks out on her kid. Akele Hum Akele Tum is longer then Kramer Vs Kramer, with more added story lines. Some great scenes between the father son relationship. One great scene is when the kid request's a present a little expensive. Aamir tries ever so hard to get the money, but ends up arrested. His son waits hours and hours, till Aamir comes home, to tell his son he failed. The kid understands and Aamir starts crying. Great direction from Hit Director Mansoor Khan of Qayamat se Qayamat Tak, Jo Jeeta Wohi Sikandar and Josh. A must see"</item>
+        <item>富家独生女亚蒂来到一个小村镇，路上遇到一位青年的士司机那查。一路上被他的美妙独特的歌声吸引，司机那查也被女孩纯真的心所打动，两人都深深的爱上了对方，双双坠入了爱河。但在阶级分明的印度社会，贵族与平民通婚几乎是不可能的事情。亚蒂冲破了阻力，终于和情人结为夫妇。但好景不长，亚蒂贪财的继母和舅舅为了独占财产，千方百计陷害他们。那查为了避免继母的残害，把儿子从妻子身边偷抱回来。亚蒂和父亲到那查家要人，双方人员互相询问后，终于真相大白，水落石出，亚蒂和那查机智地合力消灭恶人，夫妻俩得以重聚。通过这件事情，家庭成员间互相巩固了真诚和信任。</item>
+        <item>《真爱无敌》是由戴夫·安南执导的剧情片，阿米尔·汗、阿贾耶·德乌甘等参加演出。该片讲述了未婚母亲文绣，为了报复恋人的背叛，在嫉妒和愤恨中将两家女婴偷偷对换，让自己的女儿变成豪门千金，从而引发了跨越两代长达数十年的种种恩怨情仇。</item>
+        <item>1947Earth是1999年上映的，曾获当年奥斯卡最佳外国语电影提名。故事讲述‘一个以浸满印巴分裂鲜血的画布为背景的史诗般的爱情’(An epic romance set against the bloodstained canvas of patition).。导演为一位著名的印度女导演。故事主人公有三位，一个印度教女子和两个穆斯林男子。故事发生在分裂前的拉合尔，印度教女子和两个穆斯林男子是好朋友，和其中一个叫哈桑的关系更为密切。当分治的暴乱高涨时，两个男子都向印度教女子求婚，哈桑更对女子说：‘嫁给我吧，我是穆斯林那又怎样呢？我和你一起去德里，我也作印度教徒吧’。女子很感到，答应了他的求婚并和他发生了关系。不过这一切都被来找少女的另一个穆斯林男子(阿米尔汗扮演)看到了。第二天，人们在马路旁发现了哈桑的尸体，他的喉咙被割断，而阿米尔也率众从帕西人家中抢走了印度教女子。</item>
+        <item>古拉姆是指奴隶。 Sidharth（阿米尔·汗）是一个业余拳击手，没有工作，整天和小混混损友到处游荡。他的哥哥洁（Rajit Kapoor饰）与称霸附近地区的黑帮老大，一同恐吓商人和收取保护费。 Sidharth的父亲，是Sidharth孩提时候就崇拜的偶像。他的父亲是前自由战士，在父亲的一位老熟人到访之后，Sidharth亲眼看到父亲全身被烧着，掉下楼而摔死。 Sidharth遇见一个女孩，艾丽莎（拉尼Mukerji），她骑一辆摩托车与摩托车队在路上飙车。还有遇见哈利，一名社会工作者。这部电影讲述的是Sidharth与艾丽莎的爱情故事，以及他自身的蜕变。</item>
+        <item>一艘邮轮上，女主角Pieya阴差阳错地走错了房间，与潇洒的Dev来了场有趣的邂逅。没想到两人相处下来竟对对方产生了情愫，甚至在下船前定下“情人节再见我们就结婚”的约定。下了船的两人才发现对方原来已经有爱人了。</item>
+        <item>阿贾伊，出生在印度的一个富裕的家庭，他们靠经营衣服的商店为生。阿贾伊常去倾听著名的音乐家Gulfam的歌唱，并因此认识了漂亮的姑娘西玛很快相爱，并结婚。结婚后，西玛得悉阿贾伊是一个高级警察，为了监视恐怖分子。而他的爱情和婚姻只是他卧底行动的一部分。阿贾伊真的爱西玛吗？为什么会这样呢？原来，阿贾伊的哥哥被恐怖分子打死，父亲被重伤，他不得不退出大学的医学学习。怀着对恐怖主义的恨，阿贾伊加入印度警察队伍，并成为反恐部门的高级警察，与恐怖分子展开了殊死较量，九死一生，依然义务反顾。他是巴基斯坦的加扎勒歌手Gulfam哈桑的崇拜者，在哈桑的音乐会上，两人首次相见并成为很好的朋友。同时，阿贾伊负责对跨边界恐怖主义地区调查，在拉贾斯坦邦，逮捕一批恐怖分子，而真正领导这批恐怖分子的人正是Gulfam...在这场校斗中的谁将成为殉难者。</item>
+        <item>警官塔古尔在执法时与强盗头子格伯尔结怨，格伯尔越狱后杀了塔古儿一家，只有二儿媳妇拉塔活了下来。被砍掉了的双臂的塔古尔以一万卢比为偿金，请两名偷窃犯杰耶和维鲁参加到他们消灭格伯尔的战斗。杰耶在塔古尔家爱上了拉塔，维鲁正与姑娘柏森娣相爱。一天，强盗抓走了柏森娣，维鲁为了救她也被俘，强盗将维鲁绑上，命柏森娣在碎玻璃上跳舞，柏森娣为救恋人，只能起舞，终于昏倒在维鲁身旁。这时杰耶及时赶到，用枪挟持着格伯尔救</item>
+        <item>阿卡什（阿米尔·汗 Aamir Khan 饰）是一个不相信爱情的男人，他相信激情，同时也坚定的认为，爱的存在会破坏激情导致它最终变得索然无味。撒米尔（赛尔夫·阿里·汗 Saif Ali Khan 饰）和阿卡什不同，他坚定的认为生命里有一个命中注定的女人在等待着他，然而，他并不确定这个女人什么时候会出现，甚至有时还会怀疑，这样的女人真的存在吗？</item>
+        <item>故事发生在1893年，英国军队入侵印度，驻扎在一个干旱连连的小村庄里。除了要面对尴尬的收成和糟糕的气候，村民们还得应付沉重的苛捐杂税，一时间生活苦不堪言。\n罗素（保罗·布莱克索恩 Paul Blackthorne 饰）是英国军队的统领，某日，他找到了村里的青年拉凡（阿米尔·汗 Aamir Khan 饰），提出了要同他比赛的要求。罗素承诺拉凡，如果拉凡的球队能够赢得比赛，那么他将在村庄中实行为期三年的免税政策，但是，如果拉凡没能够获胜，那么村民们缴纳的税款就会增加三倍。热血沸腾的拉凡接受了罗素的挑战，然而却遭到了村民们的强烈反对，没有人愿意加入他的球队。这时，罗素的妹妹伊莉莎白（蕾切尔·雪莉 Rachel Shelley 饰）看不惯哥哥恃强凌弱，加入了拉凡一方，教他们打球，获得了强力助攻的拉凡队能否获得最终的胜利呢？</item>
+        <item>《抗暴英雄》的背景是1857年英殖民時代的印度，一個叫莽卡班迪（Mangal Pandey）的印度兵團小隊長，因不滿當時的東印度公司迫害印度平民及不尊重宗教信仰，憤而帶領一連的印度兵起義抗暴。人單力薄的革命終歸失敗，而莽卡班迪也被判處極刑，但從此掀起印度人爭取獨立的決心。在經過90年的動亂后，東印度公司終于退出印度這塊土地，印度獨立了。莽卡班迪是一個真實的歷史人物，印度的獨立，他是第一個先行者，被視為印度的民族英雄。</item>
+        <item>虽然佐妮（卡卓尔 Kajol 饰）的双目患有失明的残疾，但终日生活在黑暗里的她却并没有放弃寻找真爱的渴望。一次偶然中，她遇见了名为雷汉（阿米尔·汗 Aamir Khan 饰）的男子，虽然看不见这男子的面貌，但佐妮相信，他就是她一直在等待的那个人，很快，佐妮和雷汉踏入了婚姻的殿堂，诞下了一个可爱的小男婴。</item>
+        <item>镇压过印度革命者的英国警官被革命者视死如归的气概所感动，留下了一本记录当时情况的日记。多年后，他的孙女Sue（彭雅思 Alice Patten 饰）阅读日记后深受感动，凭着一腔热血辞掉电影公司的工作，来到印度拍摄这部记录那段历史的影片。Sue到德里大学的学生中选角。一群充满朝气却和芸芸大众一样对印度这个国家心如死灰的年轻人以及进入她的视野。开始的拍摄，麻醉于醉生梦死的的学生，对于当年那些为国捐躯的革命者的行为根本没法理解，致使迟迟不能进入角色。灾祸横至，国防部长的腐败导致朋友们中的飞行员Ajay（马德哈万 Madhavan 饰）遭遇了空难。Ajay为了防止平民受伤而献出了自己的生命，却因为政府高层的反唇覆舌而死后名誉受损。元凶逍遥法外。小伙子们恍然感觉到，自己体内的热血开始为枉死的朋友，为多难的祖国而沸腾……</item>
+        <item>对于8岁的男孩伊夏（达席尔·萨法瑞 Darsheel Safary 饰）来说，世界是充满了惊奇和快乐的万花筒，他正在用一切他能够想到的方式和这个陌生的世界进行着交流，同时也充分的享受着大地万物慷慨的赠与。可是，这样的伊夏却是成年人眼中的问题儿童，他的成绩不好，在班上的排名靠后， 脑子里还充满了各种匪夷所思的鬼点子，在又一次闯下大祸后，忍无可忍的父母将他送往了寄宿学校。</item>
+        <item>电信大亨杰辛哈尼亚（阿米尔•汗 Aamir Khan 饰）为人低调，某日却见报纸爆料他向一个叫卡尔帕谢蒂（阿辛 Asin 饰）的小广告模特大胆示爱，气愤之余杰辛哈尼亚去向这个造谣生事的女孩儿问责，谁料他途中看见一个美丽善良的女孩机智地帮助残疾儿童，而这 个女孩就是卡尔帕谢蒂，卡尔帕谢蒂并不认识杰辛哈尼亚，一场误会令别人以为她就是大亨的女友。杰辛哈尼亚隐瞒身份接近卡尔帕谢蒂，可后者以为他不过是求广告机会的无名小卒。杰辛哈尼亚结识卡尔帕谢蒂后开始了扮演双重身份的生活，两人在相处中感情逐渐加深。卡尔帕谢蒂从黑帮大佬手中救出了25名少女，惹来杀身之祸。杰辛哈尼亚遭连累被击中头部之后只能保留十五分钟的记忆，为了爱人，他艰难的凭借有限的记忆复仇……</item>
+        <item>本片根据印度畅销书作家奇坦·巴哈特（Chetan Bhagat）的处女作小说《五点人》（Five Point Someone）改编而成。法兰（马德哈万 R Madhavan 饰）、拉杜（沙曼·乔希 Sharman Joshi 饰）与兰乔（阿米尔·汗 Aamir Khan 饰）是皇家工程学院的学生，三人共居一室，结为好友。在以严格著称的学院里，兰乔是个非常与众不同的学生，他不死记硬背，甚至还公然顶撞校长“病毒”（波曼·伊拉尼 Boman Irani 饰），质疑他的教学方法。他不仅鼓动法兰与拉杜去勇敢追寻理想，还劝说校长的二女儿碧雅（卡琳娜·卡普 Kareena Kapoor 饰）离开满眼铜臭的未婚夫。兰乔的特立独行引起了模范学生“消音器”（奥米·维嘉 Omi Vaidya 饰）的不满，他约定十年后再与兰乔一决高下，看哪种生活方式更能取得成功。</item>
+        <item>一次偶然中，洗衣工穆拉（Prateik Babbar 饰）结识了名叫夏（Monica Dogra 饰）的女子，在得知了夏是一位摄影爱好者之后，一心想成为一名电影演员的穆拉请求夏为自己拍摄写真，作为交换，他将带领夏领略孟买的景致与美好，随着时间的推移，穆拉对善良的夏产生了别样的感情。</item>
+        <item>一位当红电影明星的离奇死亡吸引了侦探苏贾（阿米尔·汗 Aamir Khan 饰）的注意，心中充满了疑惑的他决定靠自己的力量找到事件的真相。苏贾和妻子罗斯（拉妮·玛克赫吉 Rani Mukherjee 饰）曾经拥有过一个可爱的孩子，不幸的是，随着这个孩子的死亡，夫妻两人的感情亦跌落了冰点，时刻濒临崩溃的边缘。</item>
+        <item>在芝加哥闹市的街头，在警察们的众目睽睽之下，反派英雄萨伊尔（阿米尔·汗 Aamir Khan 饰）成功盗取了芝加哥西部银行，尽管警察在大街小巷围追堵截，但是自幼在马戏团长大的他总能靠着自己的聪明才智和敏捷身手，一次次的逃脱，化险为夷。恼羞成怒的银行家誓死要抓到这个窃贼，保护自己的财产，找到国际刑警相助破案，萨伊尔利用各种意想不到的方法与之对抗，双方展开了一场高智商的对决。在激烈的对决背后，却有一个尘封已久的故事渊源……</item>
+        <item>贾古（安努舒卡·莎玛 Anushka Sharma 饰）意外邂逅了名为萨弗拉兹（苏翔特·辛·拉哈普特 Sushant Singh Rajput 饰）的男子，趣味相投的两人很快走到了一起。然而，萨弗拉兹是巴基斯坦人，他的国籍和信仰令这段恋情遭到了贾古家人的极力反对。不仅如此，贾古父亲信仰的教主塔帕斯维（沙鲁巴·舒克拉 Saurabh Shukla 饰）更是预言萨弗拉兹注定要欺骗和抛弃贾古。为了证明预言的荒谬，贾古决定同萨弗拉兹闪婚，然而，婚礼当天，贾古等到的却是一封分手信。</item>
+        <item>马哈维亚（阿米尔·汗 Aamir Khan 饰）曾经是一名前途无量的摔跤运动员，在放弃了职业生涯后，他最大的遗憾就是没有能够替国家赢得金牌。马哈维亚将这份希望寄托在了尚未出生的儿子身上，哪知道妻子接连给他生了两个女儿，取名吉塔（法缇玛·萨那·纱卡 Fatima Sana Shaikh 饰）和巴比塔（桑亚·玛荷塔 Sanya Malhotra 饰）。让马哈维亚没有想到的是，两个姑娘展现出了杰出的摔跤天赋，让他幡然醒悟，就算是女孩，也能够昂首挺胸的站在比赛场上，为了国家和她们自己赢得荣誉。</item>
+        <item>少女伊西亚（塞伊拉·沃西 Zaira Wasim 饰）拥有着一副天生的好嗓子，对唱歌充满了热爱的她做梦都想成为一名歌星。然而，伊西亚生活在一个不自由的家庭之中，母亲娜吉玛（梅·维贾 Meher Vij 饰）常常遭到性格爆裂独断专横的父亲法鲁克（拉杰·阿晶 Raj Arjun 饰）的拳脚相向，伊西亚知道，想让父亲支持自己的音乐梦想是完全不可能的事情。</item>
+        <item>故事的背景是在1795年东印度公司殖民统治印度期间，殖民统治者想要抓住反抗组织”阿扎德“的领袖（阿米特巴·巴强饰演）于是找来了混混弗朗基（阿米尔·汗饰演）充当间谍，但弗朗基在潜伏过程中却有了另外的想法，一段充满了意料之外的动作冒险故事由此展开.....</item>
+    </string-array>
+    <string-array name="year">
+        <item>1985</item>
+        <item>1988</item>
+        <item>1989</item>
+        <item>1989</item>
+        <item>1990</item>
+        <item>1990</item>
+        <item>1990</item>
+        <item>1990</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2001</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+    </string-array>
+    <string-array name="link">
+        <item>https://v.youku.com/v_show/id_XMzg3NTY2NzY0.html?spm</item>
+        <item>https://v.youku.com/v_show/id_XNjI1ODg0Mjgw.html?from=s1.8-1-1.2</item>
+        <item>https://v.youku.com/v_show/id_XMTUxNjgzMTIxNg==.html</item>
+        <item>https://v.youku.com/v_show/id_XMTQ5MDY5Mzg3Mg==.html?f=28515574</item>
+        <item>https://v.youku.com/v_show/id_XNDQ3NTk2MjEy.html</item>
+        <item>https://v.youku.com/v_show/id_XMzk4MDc4NDEy.html</item>
+        <item>https://v.youku.com/v_show/id_XMTUxNjg0NzMxMg==.html?refer=seo_operation.liuxiao.liux_00003303_3000_Qzu6ve_19042900</item>
+        <item>http://v.youku.com/v_show/id_XMzc2MjEwNDIw.html</item>
+        <item>https://v.youku.com/v_show/id_XMzg5Mzg2Njky.html</item>
+        <item>http://v.youku.com/v_show/id_XNDM2MzY5Njcy.html</item>
+        <item>https://v.youku.com/v_show/id_XMTQ5MDgzMDUxMg==.html?spm=a2h0k.8191407.0.0</item>
+        <item>https://v.youku.com/v_show/id_XMzk5Nzk0Nzky.html</item>
+        <item>https://v.youku.com/v_show/id_XMTUyMDczMDY4OA==.html?spm=a2h0k.8191407.0.0</item>
+        <item>https://v.youku.com/v_show/id_XMTUyMDczMDY4OA==.html?refer=seo_operation.liuxiao.liux_00003303_3000_Qzu6ve_19042900</item>
+        <item>https://v.youku.com/v_show/id_XMzA4NDE5NzUy.html</item>
+        <item>https://v.youku.com/v_show/id_XMzY1OTY1NTgw.html?spm=a2h0k.11417342.soresults.dplaybutton</item>
+        <item>https://v.youku.com/v_show/id_XMzk3NzYxODgw.html</item>
+        <item>https://v.youku.com/v_show/id_XNzIwNDY1MzE2.html</item>
+        <item>https://v.youku.com/v_show/id_XMzc5MTQwNjA0.html</item>
+        <item>https://www.iqiyi.com/v_19rsjgx7io.html?spm=a2h0k.11417342.soresults.dplaybutton</item>
+        <item>https://v.youku.com/v_show/id_XMzYzMDg3OTA4.html</item>
+        <item>http://v.youku.com/v_show/id_XMjUyOTc3NTA0.html</item>
+        <item>https://v.youku.com/v_show/id_XMTUzNTM2NTkwNA==.html?spm=a2h0k.11417342.soresults.dtitle</item>
+        <item>https://v.youku.com/v_show/id_XMzAzMTc3MDky.html</item>
+        <item>https://v.youku.com/v_show/id_XMzExNzIyOTQw.html</item>
+        <item>https://v.youku.com/v_show/id_XNzA2ODgzNDA4.html?spm=a2h0k.8191407.0.0</item>
+        <item>https://v.youku.com/v_show/id_XNjM2MzkxMTIw.html?from=y1.2-1-96.3.3-2.1-1-1-2-0</item>
+        <item>https://v.youku.com/v_show/id_XNjYyMzYxMjEy.html</item>
+        <item>https://v.youku.com/v_show/id_XODY5NzUyNzg0.html?spm=a2h0k.11417342.soresults.dtitle</item>
+        <item>https://v.youku.com/v_show/id_XNjc0MTcyNDk2.html?spm=a2h0k.8191407.0.0</item>
+        <item>https://v.youku.com/v_show/id_XNTEyNDc5NzY0.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwN18wMV8wMQ</item>
+        <item>https://v.youku.com/v_show/id_XMzQzNDI2Mzgw.html?spm=a2h0k.8191407.0.0</item>
+        <item>https://tv.sohu.com/v/dXMvMTQzMzkwNzYwLzU1NzQ0MTc3LnNodG1s.html?isNew=true</item>
+        <item>https://tv.sohu.com/v/dXMvMTc1ODU5MTYvNTE1Mzc2NjQuc2h0bWw=.html?isNew=true</item>
+        <item>https://www.nfmovies.com/video/?12778-0-0.html</item>
+        <item>https://v.youku.com/v_show/id_XNDA0MTk1NzI2NA==.html?spm=a2h0k.11417342.soresults.dtitle</item>
+        <item>https://v.youku.com/v_show/id_XNDE2NDY4MjM2.html</item>
+        <item>https://v.youku.com/v_show/id_XNTMxMDE0MzIw.html</item>
+        <item>https://v.youku.com/v_show/id_XMTM0NDU3ODE1Ng==.html?from=s1.8-1-1.2</item>
+        <item>https://v.youku.com/v_show/id_XMTQzOTY2MjA1Mg==.html?from=y1.2-2.4.5</item>
+        <item>https://v.youku.com/v_show/id_XMjg2NTM2ODU5Mg==.html?spm=a2h1n.8261147.0.0&#038;s=d48f701cbc2111e69e06</item>
+        <item>https://v.youku.com/v_show/id_XMzQyMTYwMDgwOA==.html?spm=a2h0k.11417342.soresults.dplaybutton&#038;lang=印度</item>
+        <item>https://v.youku.com/v_show/id_XNDAzMzA5MzkwOA==.html?spm=a2h0k.11417342.soresults.dplaybutton&#038;lang=印度</item>
+    </string-array>
+    <string name="about">Aamirice是由一位米粉制作的收集阿米尔汗资源的软件，感谢各位的建议与反馈，让我们同软件共同成长。</string>
+    <string name="thanks">【开发者】\n\@peekay—QQ：1194248654—贴吧：阿米族联盟\n\n
+        【测试名单】\n\@小怪兽—QQ:保密—建议：暂无\n\n
+        【建议名单】\n\@未知—QQ:null—建议：暂无\n\n
+        【反馈名单】\n\@未知—QQ:null—反馈：暂无\n\n
+        【资源提供】\n\@未知—QQ:null—反馈：暂无</string>
+    <!--【捐助名单】\n\@Null—QQ:null—内容：暂无 \n\n-->
+    <string-array name="music">
+        <item>"Main Kaun Hoon"</item>
+        <item>"Gudgudi"</item>
+        <item>"Sexy Baliye"</item>
+        <item>"Main Kaun Hoon"</item>
+        <item>"I Will Miss You"</item>
+        <item>"Nachdi Phira"</item>
+        <item>"Meri Pyaari Ammi"</item>
+        <item>"Sapne Re"</item>
+        <item>"O Re Manwa"</item>
+        <item>"Haanikaarak Bapu"</item>
+        <item>"Gilehriyaan"</item>
+        <item>"Dangal"</item>
+        <item>"Naina"</item>
+        <item>"Idiot Banna"</item>
+        <item>"Jadu Hai Tera Jadu"</item>
+        <item>"Aati Kya Khandala"</item>
+        <item>"Aankhon Se Tune Kya"</item>
+        <item>"Dil Chahta Hai (Reprise)"</item>
+        <item>"Tanhayee"</item>
+        <item>"Akash's Love Theme"</item>
+        <item>"Koi Kahe Kehta Rahe"</item>
+        <item>"Kaisi Hai Yeh Rut"</item>
+        <item>"Woh Ladki Hai Kahan"</item>
+        <item>"Jaane Kyon"</item>
+        <item>"Teri Ummeed Tera Intezar"</item>
+        <item>"Dil chahta hai"</item>
+        <item>"Aisi Deewangi"</item>
+        <item>"Jo Haal Dil Ka"</item>
+        <item>"Hoshwalon Ko Khabar Kya"</item>
+        <item>"Is Deewane Ladke Ko"</item>
+        <item>"Meri Raton Ki Neendein Uda De"</item>
+        <item>"Yeh Jawani Hadh Kar De"</item>
+        <item>"Zindagi Maut Na Ban Jaye"</item>
+        <item>"Muskaanein Jhooti Hai"</item>
+        <item>"Jiya Laage Na"</item>
+        <item>"Jee Le Zaraa"</item>
+        <item>"Jee Le Zaraa (Remix)"</item>
+        <item>"Hona Hai Kya"</item>
+        <item>"Laakh Duniya Kahe"</item>
+        <item>"Saare Ladkon Ki"</item>
+        <item>"O Priya Priya"</item>
+        <item>"Dum Dama Dum"</item>
+        <item>"Khambe Jaisi Khadi Hai"</item>
+        <item>"Humne Ghar Choda Hai"</item>
+        <item>"Hum Pyar Karne Wale"</item>
+        <item>"Mujhe Neend Na Aaye"</item>
+        <item>"Tujko Kya"</item>
+        <item>"Saath Jo Tera Mil Gaya"</item>
+        <item>"Ab Naam Mohabbat"</item>
+        <item>"Tinak Tin Tana"</item>
+        <item>"Nasha Ye Pyaar Ka"</item>
+        <item>"Mera Mann"</item>
+        <item>"Kyon Chupate Ho"</item>
+        <item>"Khushiyan Aur Gham"</item>
+        <item>"Kali Nagin Ke Jaisi"</item>
+        <item>"Kehna Hai"</item>
+        <item>"Chaha Hai Tujhko"</item>
+        <item>"Aal Izz Well"</item>
+        <item>"Aisa Zakhm Diya Hai"</item>
+        <item>"Akele Hum Akele Tum"</item>
+        <item>"Raja Ko Rani Se Pyaar"</item>
+        <item>"Dil Mera Churaya Kyun"</item>
+        <item>"Dil Kehta Hai"</item>
+        <item>"Raja Ko Rani Se Pyaar"</item>
+        <item>"Neend Churayee Meri"</item>
+        <item>"Kaise Kahoon Kaise Ho"</item>
+        <item>"Ishq Hai Ishq Hai"</item>
+        <item>"Dekho Dekho Jaanam"</item>
+        <item>"Ishq Hua Kaise Hua"</item>
+        <item>"Mr Lova Lova"</item>
+        <item>"Neend Churayee Meri"</item>
+        <item>"Dil Darbadar"</item>
+        <item>"Pk Dance (Theme)"</item>
+        <item>"Bhagwan Hai Kahan Re Tu"</item>
+        <item>"Love Is A Waste Of Time"</item>
+        <item>"Chaar Kadam"</item>
+        <item>"Nanga Punga Dost"</item>
+        <item>"Tharki Chokro"</item>
+        <item>"Pardesi Pardesi"</item>
+        <item>"Puchho Jara Puchho"</item>
+        <item>"Aaye Ho Meri Zindagi Mein"</item>
+        <item>"Kitana Pyaara Tujhe Rab Ne Banaya"</item>
+        <item>"Pardesi Pardesi"</item>
+        <item>"Aaye Ho Meri Zindagi Mein"</item>
+        <item>"Tere Ishq Mein Nachenge"</item>
+        <item>"Pardesi Jana Nahin"</item>
+        <item>"Doob Ke Dariya Mein (Saajan Chale Sasural)"</item>
+        <item>"Maya Machindra (Hindustani)"</item>
+        <item>"Tharki Chokro"</item>
+        <item>"Nanga Punga Dost"</item>
+        <item>"Chaar Kadam"</item>
+        <item>"Love Is A Waste Of Time"</item>
+        <item>"Bhagwan Hai Kahan Re Tu"</item>
+        <item>"Pk Dance (Theme)"</item>
+        <item>"Dil Darbadar"</item>
+        <item>"Dheere Dheere Aap Mere"</item>
+        <item>"Na Jaane Kya Ho Gaya"</item>
+        <item>"Dhadakta Hai Dil Mera"</item>
+        <item>"Jaane Mujhe Kya Hua"</item>
+        <item>"Maine Kaha Mohtaram"</item>
+        <item>"Dole Dole Dil Dole"</item>
+        <item>"Adhoore"</item>
+        <item>"Ajab Leher"</item>
+        <item>"Dhoop Ke Makan"</item>
+        <item>"Dooriyan Hain Zaroori"</item>
+        <item>"Main Jiyoonga"</item>
+        <item>"Don't Worry About Me"</item>
+        <item>"Adhoore (Remix)"</item>
+        <item>"Dhoop Ke Makan (Acoustic)"</item>
+        <item>"Hey Baby"</item>
+        <item>"Ayyare"</item>
+        <item>"Challaga"</item>
+        <item>"Nee Valle"</item>
+        <item>"Oday Oday"</item>
+        <item>"Vinave Vinave"</item>
+        <item>"A Love For Life"</item>
+        <item>"Satyamev Jayate "</item>
+        <item>"Chiraiyya"</item>
+        <item>"Hauley Hauley"</item>
+        <item>"Rupaiyya"</item>
+        <item>"Masoom Si Naav...Zindagi"</item>
+        <item>"Ghar Yaad Aata Hai Mujhe"</item>
+        <item>"Dhoom:3 Overture (Instrumental)"</item>
+        <item>"Dhoom Machale Dhoom (Arabic)"</item>
+        <item>"Aal Izz Well"</item>
+        <item>"Zoobi Doobi (Remix)"</item>
+        <item>"Aal Izz Well (Remix)"</item>
+        <item>"Taare Zameen Par"</item>
+        <item>"Kholo Kholo"</item>
+        <item>"Maa"</item>
+        <item>"Bheja Kum"</item>
+        <item>"Mera Jahan"</item>
+        <item>"Ishaan's Theme"</item>
+        <item>"Latoo"</item>
+        <item>"Chand Sifarish"</item>
+        <item>"Ik Onkar"</item>
+        <item>"Rang de Basanti"</item>
+        <item>"Paathshala"</item>
+        <item>"Tu Bin Bataye"</item>
+        <item>"Khalbali"</item>
+        <item>"Khoon Chala"</item>
+        <item>"Paathshala-Be a Rebel"</item>
+        <item>"Luka Chuppi"</item>
+        <item>"Lalkaar"</item>
+        <item>"Ghanan Ghanan"</item>
+        <item>"Mitwa"</item>
+        <item>"Radha Kaise Na Jale"</item>
+        <item>"O Rey Chhori"</item>
+        <item>"Chale Chalo"</item>
+        <item>"Waltz for Romance"</item>
+        <item>"O Paalanhaare"</item>
+        <item>"Lagaan - ZOnce Upon A Time"</item>
+        <item>"Rangeela Re"</item>
+        <item>"Hai Rama"</item>
+        <item>"Kya Kare Kya Na Kare"</item>
+        <item>"Pyar Ye Jaane Kaise"</item>
+        <item>"Tanha Tanha Yahan Pe Jeena"</item>
+        <item>"Yaaro Sun Lo Zara"</item>
+        <item>"Mangta Hai Kya"</item>
+        <item>"Spirit of Rangeela (instrumental)"</item>
+        <item>"Malang"</item>
+        <item>"Dhoom Tap (Instrumental)"</item>
+        <item>"Dhoom Machale Dhoom"</item>
+        <item>"Bande Hain Hum Uske"</item>
+        <item>"Tu Hi Junoon"</item>
+        <item>"Jaane Nahin Denge"</item>
+        <item>"Give Me Some Sunshine"</item>
+        <item>"Behti Hawa Sa Tha Woh"</item>
+        <item>"Zoobi Doobi"</item>
+        <item>"Kaise Mujhe (Instrumental)"</item>
+        <item>"Behka"</item>
+        <item>"Kaise Mujhe"</item>
+        <item>"Aye Bachchu"</item>
+        <item>"Guzarish"</item>
+        <item>"Dekho Na"</item>
+        <item>"Destroyed in Love (Lounge Mix)"</item>
+        <item>"Des Rangila"</item>
+        <item>"Mere Haath Mein"</item>
+        <item>"Kamli"</item>
+        <item>"Fanaa For You (Chand Sifarish Club Mix)"</item>
+        <item>"Chanda Chamke"</item>
+        <item>"Roobaroo"</item>
+        <item>"Jame Raho"</item>
+        <item>"Bum Bum Bole"</item>
+    </string-array>
+    <string-array name="musiclink">
+        <item>"https://music.163.com/song/media/outer/url?id=521418195"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525238637"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525239591"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525241601"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525239590"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525240626"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525241602"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525239589"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=525240627"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=475279814"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=475277751"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=475279813"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=475279815"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=475277752"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971274"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971273"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971272"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953318"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953317"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953314"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953316"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953315"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953313"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953312"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953309"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953311"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28953310"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935278"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935279"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935280"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935281"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935282"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935283"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747490"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747491"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747492"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747495"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747493"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28747494"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30352047"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715703"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715698"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715701"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715699"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715700"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29715702"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971276"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971277"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28971275"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819453"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819454"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819450"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819451"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819452"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819449"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819448"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29819447"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=1300780752"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935260"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935263"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935264"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935262"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935261"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28935259"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818517"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818515"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818514"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818511"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818516"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818513"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29818512"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260037"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260034"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260038"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260036"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260035"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260032"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=30260033"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056769"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056770"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056771"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056772"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056773"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056774"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056775"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056776"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056777"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5056778"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755356"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755357"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755358"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755359"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755360"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755361"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29755362"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005950"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005951"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005952"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005953"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005954"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=29005955"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757090"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757091"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757092"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757093"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757094"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757095"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757096"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28757097"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933415"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933416"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933417"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933418"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933419"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933420"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28933421"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754382"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754383"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754384"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754385"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754386"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28754387"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141934"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141935"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110130"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110135"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110136"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473697"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473700"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473710"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473713"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473716"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473719"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990869"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045865"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047024"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047025"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047026"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047027"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047028"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047029"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047030"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047031"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047032"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990818"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990822"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990825"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990829"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990833"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990837"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990841"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990845"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992212"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992216"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992220"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992223"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992227"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992229"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992233"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=992238"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141928"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141933"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141931"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141932"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141930"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110134"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110133"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110132"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5110131"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990873"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990866"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990863"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990860"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=990856"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045868"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045870"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045867"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045866"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=28141929"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045871"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5045869"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=5047033"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473707"</item>
+        <item>"https://music.163.com/song/media/outer/url?id=4473703"</item>
+    </string-array>
+
+    <!--shortcut-->
+    <string name="enablename">关闭</string>
+    <string name="longname">打开主页面</string>
+    <string name="shortname">首页</string>
+</resources>

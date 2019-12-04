@@ -1,0 +1,211 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--默认水鸭青-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>  虚拟导航键沉浸，但有bug-->
+    </style>
+
+    <!--姨妈红-->
+    <style name="red" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#DB4437</item>
+        <item name="colorPrimaryDark">#DB4437</item>
+        <item name="colorAccent">#DB4437</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--基佬紫-->
+    <style name="purple" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryDark">#673AB7</item>
+        <item name="colorAccent">#673AB7</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--伊藤橙-->
+    <style name="ori" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#FF5722</item>
+        <item name="colorAccent">#FF5722</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--小草绿-->
+    <style name="green" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#0F9D58</item>
+        <item name="colorPrimaryDark">#0F9D58</item>
+        <item name="colorAccent">#0F9D58</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--天际蓝-->
+    <style name="blue" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#03A9F4</item>
+        <item name="colorAccent">#03A9F4</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--哔哩粉-->
+    <style name="pink" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#FA7298</item>
+        <item name="colorPrimaryDark">#FA7298</item>
+        <item name="colorAccent">#FA7298</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--颐和蓝-->
+    <style name="blue1" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#3F51B5</item>
+        <item name="colorAccent">#3F51B5</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--古铜棕->-->
+    <style name="brown" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#795547</item>
+        <item name="colorPrimaryDark">#795547</item>
+        <item name="colorAccent">#795547</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--低调灰-->
+    <style name="gray" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#607D8B</item>
+        <item name="colorPrimaryDark">#607D8B</item>
+        <item name="colorAccent">#607D8B</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--花青-->
+    <style name="huaqing" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#2376b7</item>
+        <item name="colorPrimaryDark">#2376b7</item>
+        <item name="colorAccent">#2376b7</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--胆矾蓝-->
+    <style name="danfanlan" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#0f95b0</item>
+        <item name="colorPrimaryDark">#0f95b0</item>
+        <item name="colorAccent">#0f95b0</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--美蝶绿-->
+    <style name="meidielv" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#12aa9c</item>
+        <item name="colorPrimaryDark">#12aa9c</item>
+        <item name="colorAccent">#12aa9c</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--花叶-->
+    <style name="huaye" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#F7C242</item>
+        <item name="colorPrimaryDark">#F7C242</item>
+        <item name="colorAccent">#F7C242</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--花叶-->
+    <style name="lv" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#227D51</item>
+        <item name="colorPrimaryDark">#227D51</item>
+        <item name="colorAccent">#227D51</item>
+        <item name="color">#fff</item>
+        <item name="android:textColorPrimaryDisableOnly">#000000</item>
+        <item name="android:textColorPrimaryInverse">#7C7C7C</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+
+    <!--炫酷黑-->
+    <style name="dark" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#282828</item>
+        <item name="colorPrimaryDark">#282828</item>
+        <item name="colorAccent">#282828</item>
+        <item name="color">#282828</item>
+        <item name="android:textColorPrimaryDisableOnly">#FFFFFF</item>
+        <item name="android:textColorPrimaryInverse">#ADADAD</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+</resources>

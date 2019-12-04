@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    tools:context=".fragment.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?colorAccent"
+        android:elevation="5dp"
+        android:orientation="vertical"
+        android:paddingTop="28dp">
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:titleTextColor="#fff"
+            android:background="?colorAccent"
+            app:title="@string/app_name">
+            <TextView
+                android:id="@+id/tv_menu"
+                android:layout_width="32dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="8dp"
+                android:textColor="#fff"
+                android:text=":"
+                android:textStyle="bold"
+                android:textSize="24dp"
+                android:gravity="center"
+                android:layout_gravity="right"/>
+        </androidx.appcompat.widget.Toolbar>
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            app:tabIndicatorColor="#fff"
+            app:tabMode="scrollable"
+            app:tabIndicatorFullWidth="false"
+            app:tabTextColor="#fff">
+        </com.google.android.material.tabs.TabLayout>
+    </LinearLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.viewpager.widget.ViewPager>
+
+</LinearLayout>

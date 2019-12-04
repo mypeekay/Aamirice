@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/icon"
+        android:shortcutDisabledMessage="@string/enablename"
+        android:shortcutId="main"
+        android:shortcutLongLabel="@string/longname"
+        android:shortcutShortLabel="@string/shortname">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.peekay.aamirice.Main2Activity"
+            android:targetPackage="com.peekay.aamirice" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
