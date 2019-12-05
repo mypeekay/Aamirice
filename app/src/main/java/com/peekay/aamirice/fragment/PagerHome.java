@@ -1,21 +1,16 @@
 package com.peekay.aamirice.fragment;
 
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Color;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.text.SpannedString;
-import android.text.style.ImageSpan;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -25,49 +20,46 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.Toast;
-import android.widget.VideoView;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
-import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import androidx.viewpager.widget.ViewPager;
-
 import com.peekay.aamirice.R;
 import com.peekay.aamirice.VideoPlayActivity;
 import com.peekay.aamirice.adapter.LVContentAdapter;
 import com.peekay.aamirice.adapter.ViewPagerAdapter;
 import com.peekay.aamirice.bean.Content;
 import com.peekay.aamirice.bean.UpdateJson;
+import com.scwang.smartrefresh.layout.SmartRefreshLayout;
+import com.scwang.smartrefresh.layout.api.RefreshLayout;
+import com.scwang.smartrefresh.layout.header.BezierRadarHeader;
+import com.scwang.smartrefresh.layout.listener.OnLoadMoreListener;
+import com.scwang.smartrefresh.layout.listener.OnRefreshListener;
 import com.zhy.magicviewpager.transformer.AlphaPageTransformer;
 import com.zhy.magicviewpager.transformer.ScaleInTransformer;
-
 import org.jetbrains.annotations.NotNull;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
-
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 import tools.MyOpenHelper;
-import tools.SetTheme;
 
 public class PagerHome extends Fragment {
     //TODO 版本号，更新时修改
     private static final int version = 10;
     View view, pagerlayout;
-    private SwipeRefreshLayout swipeRefreshLayout;
+    private SmartRefreshLayout smartRefreshLayout;
     private ListView listView_content;
     private ViewPager viewPager;
     private ViewPagerAdapter viewPagerAdapter;
@@ -93,7 +85,7 @@ public class PagerHome extends Fragment {
                 case 1:
                     //加载公告
                     listView_content.setAdapter(lvContentAdapter);
-                    swipeRefreshLayout.setRefreshing(false);
+                    smartRefreshLayout.finishRefresh(2000);
                     break;
                 case 2:
                     if (index == bitmaps1.size()) {
@@ -123,11 +115,11 @@ public class PagerHome extends Fragment {
 
     public void initView() {
         myOpenHelper = new MyOpenHelper(getContext());
-        swipeRefreshLayout = view.findViewById(R.id.swipe);
-        swipeRefreshLayout.setColorSchemeColors(Color.rgb(0, 150, 136), Color.rgb(219, 68, 55), Color.rgb(40, 40, 40));
-        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+        smartRefreshLayout = view.findViewById(R.id.smart_pager_home);
+        smartRefreshLayout.setRefreshHeader(new BezierRadarHeader(getContext()));
+        smartRefreshLayout.setOnRefreshListener(new OnRefreshListener() {
             @Override
-            public void onRefresh() {
+            public void onRefresh(@NonNull RefreshLayout refreshLayout) {
                 handler.sendEmptyMessage(1);
             }
         });
@@ -233,9 +225,6 @@ public class PagerHome extends Fragment {
         listView_search.setAdapter(adapter);
         adapter.notifyDataSetChanged();
         listView_search.setTextFilterEnabled(true);
-        SharedPreferences sharedPreferences = getActivity().getSharedPreferences("theme", Context.MODE_PRIVATE);
-        SetTheme setTheme = new SetTheme(swipeRefreshLayout);
-        setTheme.initSwipe(sharedPreferences.getString("theme", "null"));
     }
 
     @Override

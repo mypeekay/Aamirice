@@ -9,18 +9,18 @@
         android:id="@+id/tv_tips"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="下拉加载图片~此图集加载需300M左右的流量"
+        android:text="下拉加载图片~不要同时加载多个图集"
         android:gravity="center"
         android:background="?color"
         android:textColor="?android:textColorPrimaryDisableOnly"/>
-    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+    <com.scwang.smartrefresh.layout.SmartRefreshLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/swipe_amstudio1">
+        android:layout_height="match_parent"
+        android:id="@+id/smart1">
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycle_amstudio1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"></androidx.recyclerview.widget.RecyclerView>
-    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+            android:layout_height="match_parent"></androidx.recyclerview.widget.RecyclerView>
+    </com.scwang.smartrefresh.layout.SmartRefreshLayout>
 
 </LinearLayout>
